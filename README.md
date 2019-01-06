@@ -8,3 +8,5 @@
 1. [switch](switchStatement.md)
 1. [Ciklusok](cycles.md)
 1. [Tömbök](array.md)
+1. [brake és continue](brakeAndContinue.md)
+1. [Programozási tételek](basicAlgorithms.md)
